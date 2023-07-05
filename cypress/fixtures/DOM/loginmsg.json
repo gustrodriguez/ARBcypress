@@ -1,0 +1,9 @@
+{
+    "error": "[data-test='error']",
+
+    "loginError": {
+        "usernameRequire": "Epic sadface: Username is required",
+        "msgPassBlocked": "Epic sadface: Sorry, this user has been locked out.",
+        "msgPassInvalid": "Epic sadface: Username and password do not match any user in this service"
+    }
+}
